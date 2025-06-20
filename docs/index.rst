@@ -8,7 +8,7 @@ In today’s fast-paced digital world, mobile entertainment has become more acce
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://navisolve.com/
+   :target: https://accuratelivechat.com
 
 What Is Sprint TV?
 ------------------
